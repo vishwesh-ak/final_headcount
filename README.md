@@ -1,10 +1,12 @@
 BACKEND
+
 npm install express-rate-limit
 npm install cors --save
 npm install nano
 npm install x
 
 FRONTEND
+
 npm install @carbon/ibm-products
 npm install @carbon/charts-react
 npm install react-router-dom
