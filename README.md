@@ -6,6 +6,6 @@ npm install nano
 FRONTEND  
 npm install @carbon/ibm-products   
 npm install @carbon/charts-react    
-npm install react-router-dom
+npm install react-router-dom  
 npm install axios 
 npm install carbon-components-react
