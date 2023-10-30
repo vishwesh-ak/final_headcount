@@ -1,7 +1,7 @@
 BACKEND  
-npm install express-rate-limit 
-npm install cors --save 
-npm install nano 
+npm install express-rate-limit     
+npm install cors --save    
+npm install nano   
  
 FRONTEND
 
