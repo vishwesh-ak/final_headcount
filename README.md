@@ -1,10 +1,8 @@
-BACKEND
-
-npm install express-rate-limit
-npm install cors --save
-npm install nano
-npm install x
-
+BACKEND  
+npm install express-rate-limit 
+npm install cors --save 
+npm install nano 
+ 
 FRONTEND
 
 npm install @carbon/ibm-products
